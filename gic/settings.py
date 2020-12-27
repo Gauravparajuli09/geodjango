@@ -82,9 +82,9 @@ WSGI_APPLICATION = 'gic.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'postgres',
+        'NAME': 'usurvey',
         'USER': 'postgres',
-        'PASSWORD': 'admin',
+        'PASSWORD': 'azsxdcfv',
         'HOST': 'localhost',
         'PORT': '5432',
     }
